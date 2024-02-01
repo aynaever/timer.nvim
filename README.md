@@ -20,9 +20,9 @@ use {'aynaever/timer.nvim'}
 - Is Paused: show if the timer is paused
 
 ## Usage
-Those are the available user commands, which you map them however you want with any keybindings:
-- `:TimerStart`
-- `:TimerPause`
-- `:TimerResume`
-- `:TimerDisplay`
-- `:TimerIsPause`
+Those are the available user commands, which you can map them however you want with any keybindings:
+- `:TimerStart` : start timer
+- `:TimerPause` : pause timer
+- `:TimerResume` : resume timer
+- `:TimerDisplay` : display timer
+- `:TimerIsPause` : check if timer is paused
