@@ -2,6 +2,8 @@
 A Very Simple plugin that will help keep conscious of time spent on writing dumb functions and code each task.
 
 ## Table of Contents
+1. [Installation](#Installation)
+2. [Features](#Features)
 
 ## Installation
 Installing it via packer, add this to your `~/.config/nvim/*/packer.lua`:  
